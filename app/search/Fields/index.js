@@ -27,6 +27,7 @@ const Fields = {
     SearchMultiSelectField: require("./searchMultiSelectField"),
     SearchStringField: require("./searchStringField"),
     SearchTextNumberField: require("./searchTextNumberField"),
+    SearchMultiSelectCustomField: require("./searchMultiSelectCustomField"),
 };
 
 module.exports = Fields;
